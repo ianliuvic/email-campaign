@@ -21,7 +21,7 @@ email-campaign/
 
 | 活动 | 目录 | 页面 URL | Zoho campaign_id | 状态 |
 |---|---|---|---|---|
-| Hongxiu Swimwear OEM-ODM Campaign 01 | `campaigns/2026-08-oem-odm-01/` | <https://email.wearhongxiu.com/campaigns/2026-08-oem-odm-01/> | 31089000000164513 | Draft |
+| Hongxiu Swimwear OEM-ODM Campaign 01 | `campaigns/2026-08-oem-odm-01/` | <https://email.wearhongxiu.com/campaigns/2026-08-oem-odm-01/> | 31089000000164552 | Draft |
 
 ## 新建邮件的流程
 
