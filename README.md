@@ -24,6 +24,9 @@ email-campaign/
 | Hongxiu Swimwear OEM-ODM Campaign 01 | `campaigns/2026-08-oem-odm-01/` | <https://email.wearhongxiu.com/campaigns/2026-08-oem-odm-01/> | 31089000000164552 | Draft |
 | Wholesale Swimwear Campaign 01 | `campaigns/2026-08-wholesale-swimwear/` | <https://email.wearhongxiu.com/campaigns/2026-08-wholesale-swimwear/> | 31089000000162826 | Draft（未发送） |
 
+| Weekly New Arrivals — 2026-W36 | `campaigns/2026-W36-new-arrivals/` | <https://email.wearhongxiu.com/campaigns/2026-W36-new-arrivals/> | PENDING | Draft（未发送） |
+<!-- WEEKLY:2026-W36-new-arrivals:ZOHO=PENDING -->
+
 ## 新建邮件的流程
 
 1. 复制 `templates/base-template.html` 到 `campaigns/YYYY-MM-short-name/index.html`
