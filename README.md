@@ -24,8 +24,8 @@ email-campaign/
 | Hongxiu Swimwear OEM-ODM Campaign 01 | `campaigns/2026-08-oem-odm-01/` | <https://email.wearhongxiu.com/campaigns/2026-08-oem-odm-01/> | 31089000000164552 | Draft |
 | Wholesale Swimwear Campaign 01 | `campaigns/2026-08-wholesale-swimwear/` | <https://email.wearhongxiu.com/campaigns/2026-08-wholesale-swimwear/> | 31089000000162826 | Draft（未发送） |
 
-| Weekly New Arrivals — 2026-W36 | `campaigns/2026-W36-new-arrivals/` | <https://email.wearhongxiu.com/campaigns/2026-W36-new-arrivals/> | 3z2fe9294980bd8c68aedf5e2cd4292a202a67999196e00bcad355e7f9f2b60da7 | Draft（未发送） |
-<!-- WEEKLY:2026-W36-new-arrivals:ZOHO=3z2fe9294980bd8c68aedf5e2cd4292a202a67999196e00bcad355e7f9f2b60da7 -->
+| Weekly New Arrivals — 2026-W36 | `campaigns/2026-W36-new-arrivals/` | <https://email.wearhongxiu.com/campaigns/2026-W36-new-arrivals/> | 3z853bef4e89e496084e877b019f8fdff1dd024fcb3259e08bdc058da2c4e00991 | Draft（未发送） |
+<!-- WEEKLY:2026-W36-new-arrivals:ZOHO=3z853bef4e89e496084e877b019f8fdff1dd024fcb3259e08bdc058da2c4e00991 -->
 
 ## 新建邮件的流程
 
