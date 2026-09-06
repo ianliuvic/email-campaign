@@ -25,7 +25,7 @@ email-campaign/
 | Wholesale Swimwear Campaign 01 | `campaigns/2026-08-wholesale-swimwear/` | <https://email.wearhongxiu.com/campaigns/2026-08-wholesale-swimwear/> | 31089000000162826 | Draft（未发送） |
 
 | Weekly New Arrivals — 2026-W36 | `campaigns/2026-W36-new-arrivals/` | <https://email.wearhongxiu.com/campaigns/2026-W36-new-arrivals/> | 3z2cde67d6e2840ad510f1c0d4617a5eb2b5a6e2ff72c3bb007b66c2444118156f | Draft（未发送） |
-<!-- WEEKLY:2026-W36-new-arrivals:ZOHO=3z2cde67d6e2840ad510f1c0d4617a5eb2b5a6e2ff72c3bb007b66c2444118156f -->
+<!-- WEEKLY:2026-W36-new-arrivals:ZOHO=PENDING -->
 
 ## 新建邮件的流程
 
