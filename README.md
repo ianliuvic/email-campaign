@@ -39,6 +39,9 @@ email-campaign/
 | Weekly New Arrivals — 2026-W40 | `campaigns/2026-W40-new-arrivals/` | <https://email.wearhongxiu.com/campaigns/2026-W40-new-arrivals/> | 3z2c30b1012740e41897a1c2080baf20153565d7b38af13aa5a46fca0dded79c33 | Draft（未发送） |
 <!-- WEEKLY:2026-W40-new-arrivals:ZOHO=3z2c30b1012740e41897a1c2080baf20153565d7b38af13aa5a46fca0dded79c33 -->
 
+| Weekly New Arrivals — 2026-W42 | `campaigns/2026-W42-new-arrivals/` | <https://email.wearhongxiu.com/campaigns/2026-W42-new-arrivals/> | PENDING | Draft（未发送） |
+<!-- WEEKLY:2026-W42-new-arrivals:ZOHO=PENDING -->
+
 ## 新建邮件的流程
 
 1. 复制 `templates/base-template.html` 到 `campaigns/YYYY-MM-short-name/index.html`
