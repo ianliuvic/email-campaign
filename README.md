@@ -45,8 +45,8 @@ email-campaign/
 | Weekly New Arrivals — 2026-W43 | `campaigns/2026-W43-new-arrivals/` | <https://email.wearhongxiu.com/campaigns/2026-W43-new-arrivals/> | 3z01a47c394c0ce4282954023b3d387815c1dea2d673b336a3c44d261cc243cae1 | Draft（未发送） |
 <!-- WEEKLY:2026-W43-new-arrivals:ZOHO=3z01a47c394c0ce4282954023b3d387815c1dea2d673b336a3c44d261cc243cae1 -->
 
-| Weekly New Arrivals — 2026-W44 | `campaigns/2026-W44-new-arrivals/` | <https://email.wearhongxiu.com/campaigns/2026-W44-new-arrivals/> | PENDING | Draft（未发送） |
-<!-- WEEKLY:2026-W44-new-arrivals:ZOHO=PENDING -->
+| Weekly New Arrivals — 2026-W44 | `campaigns/2026-W44-new-arrivals/` | <https://email.wearhongxiu.com/campaigns/2026-W44-new-arrivals/> | 3z6dd1ea51e6e88b609472550961ec0f4592e5b17bba8725c04acaac962ae88d3c | Draft（未发送） |
+<!-- WEEKLY:2026-W44-new-arrivals:ZOHO=3z6dd1ea51e6e88b609472550961ec0f4592e5b17bba8725c04acaac962ae88d3c -->
 
 ## 新建邮件的流程
 
